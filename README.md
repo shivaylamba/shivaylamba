@@ -2,8 +2,8 @@
 
 <!--
 **shivaylamba/shivaylamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--> 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Open Source!
 - 🌱 I’m currently learning ... Flutter!
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Follow me on these platforms! : Twitter : @howdevelop / Linkedin : @shivaylamba / Github : @shivaylamba
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Javascript >> Python
--->
+
