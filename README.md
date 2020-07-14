@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/shivaylamba/">
   <img align="left" alt="Shivay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)
+![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)
 
 <br />
 
