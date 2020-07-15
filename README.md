@@ -9,10 +9,6 @@
 --> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)
-
-<br />
-
-
 Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.
 <br />
 
