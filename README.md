@@ -18,13 +18,12 @@ Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Sour
 
 
 - 🔭 I’m currently working on ... Open Source!
-- 🌱 I’m currently learning ... Flutter!
+- 🌱 I’m currently learning ... Kubernetes!
 - 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development/ Machine Learning / DevOps
 - 🤔 I’m looking for help with ... Competitive Programming concepts : Dynamic Programming and Graphs 
 - 💬 Ask me about ... anything tech!
 - 📫 How to reach me: Follow me on these platforms! : Twitter : @howdevelop / Linkedin : @shivaylamba / Github : @shivaylamba
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Javascript >> Python
 
 
 **Languages and Tools:**  
