@@ -10,10 +10,9 @@
 
 
 Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pulkit-midha28)](https://www.linkedin.com/in/midopooler/)
-[![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/midopooler) 
-[![Medium Badge](https://img.shields.io/badge/-@midhapulkit-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@midhapulkit28)](https://medium.com/@midhapulkit28)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:midhapulkit28@gmail.com)](mailto:midhapulkit28@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ShivayLamba-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivaylamba)](https://www.linkedin.com/in/shivaylamba/)
+[![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/howdevelop)](https://twitter.com/howdevelop) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:shivaylamba@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)  <br> 
 <!--
