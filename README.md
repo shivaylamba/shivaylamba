@@ -8,22 +8,20 @@
 </a>
 --> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)  <br> 
-Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.
-<br />
 
+Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pulkit-midha28)](https://www.linkedin.com/in/midopooler/)
+[![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/midopooler) 
+[![Medium Badge](https://img.shields.io/badge/-@midhapulkit-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@midhapulkit28)](https://medium.com/@midhapulkit28)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:midhapulkit28@gmail.com)](mailto:midhapulkit28@gmail.com)
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)  <br> 
 <!--
 **shivaylamba/shivaylamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
 
-- 🔭 I’m currently working on ... Open Source!
-- 🌱 I’m currently learning ... Kubernetes!
-- 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development/ Machine Learning / DevOps
-- 🤔 I’m looking for help with ... Competitive Programming concepts : Dynamic Programming and Graphs 
-- 💬 Ask me about ... anything tech!
-- 📫 How to reach me: Follow me on these platforms! : Twitter : @howdevelop / Linkedin : @shivaylamba / Github : @shivaylamba
-- 😄 Pronouns: he/him
+- Web Development - Machine Learning - DevOps
 
 
 **Languages and Tools:**  
