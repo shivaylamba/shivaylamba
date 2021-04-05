@@ -9,7 +9,7 @@
 --> 
 
 
-Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> 
+Hi, I'm Shivay Lamba, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-PulkitMidha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pulkit-midha28)](https://www.linkedin.com/in/midopooler/)
 [![Twitter Badge](http://img.shields.io/badge/-@midopooler-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/midopooler)](https://twitter.com/midopooler) 
 [![Medium Badge](https://img.shields.io/badge/-@midhapulkit-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@midhapulkit28)](https://medium.com/@midhapulkit28)
